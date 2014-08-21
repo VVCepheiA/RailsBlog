@@ -38,3 +38,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Documents Guide dependency
+gem 'redcarpet', '~> 3.1.2'
+gem 'nokogiri'
